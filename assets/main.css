@@ -101,6 +101,8 @@ th,td{
     border-bottom: 1px solid #ddd; /* Light horizontal line for each row */
 }
 
+.news-table td:first-child {white-space: nowrap; width: 170px;}
+
 .news-table th {
     background-color: #f2f2f2;
 }
